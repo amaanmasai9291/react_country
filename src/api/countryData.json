@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1428627663,
+    "interestingFact": "India is the world's largest democracy and has the second-largest population."
+  },
+  {
+    "id": 2,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 339996563,
+    "interestingFact": "The U.S. has the world's largest economy."
+  },
+  {
+    "id": 3,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1411750000,
+    "interestingFact": "China is the most populous country and home to the Great Wall."
+  },
+  {
+    "id": 4,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 124214766,
+    "interestingFact": "Japan consists of over 6,800 islands."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 216422446,
+    "interestingFact": "Brazil is home to the Amazon rainforest, the largest in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26749921,
+    "interestingFact": "Australia is the only country that is also a continent."
+  },
+  {
+    "id": 7,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": 67886011,
+    "interestingFact": "The UK is made up of England, Scotland, Wales, and Northern Ireland."
+  },
+  {
+    "id": 8,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 40586300,
+    "interestingFact": "Canada has the longest international border in the world shared with the U.S."
+  },
+  {
+    "id": 9,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83369843,
+    "interestingFact": "Germany is known for having the largest economy in Europe."
+  },
+  {
+    "id": 10,
+    "countryName": "South Africa",
+    "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+    "population": 60414495,
+    "interestingFact": "South Africa has three capital cities — the only country in the world with this system."
+  }
+]
